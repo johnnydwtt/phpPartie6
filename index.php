@@ -19,10 +19,6 @@
        <a href="exercice4.php" class="btn mr-2"><i class="fas fa-link"></i>Je suis l'exercice 4</a>
        <a href="exercice5.php" class="btn mr-2"><i class="fas fa-link"></i>Je suis l'exercice 5</a>
        <a href="exercice6.php" class="btn mr-2"><i class="fas fa-link"></i>Je suis l'exercice 6</a>
-       <a href="exercice7.php" class="btn mr-2"><i class="fas fa-link"></i>Je suis l'exercice 7</a>
-       <a href="exercice8.php" class="btn mr-2"><i class="fas fa-link"></i>Je suis l'exercice 8</a>
-       <a href="exercice9.php" class="btn mr-2"><i class="fas fa-link"></i>Je suis l'exercice 9</a>
-       <a href="exercice10.php" class="btn mr-2"><i class="fas fa-link"></i>Je suis l'exercice 10</a>
   </div>
 </body>
 </html>

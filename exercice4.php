@@ -1,5 +1,7 @@
 <?php
-
+if(isset($_GET['language']) && isset($_GET['server'])){
+    echo 'Language : ' . $_GET['language'] . ' <br> ' . 'Serveur : ' . $_GET['server'];
+}
 ?>
 
 <!DOCTYPE html>
@@ -16,5 +18,8 @@
 
 ?>
 
+<div>
+    <a href="exercice4.php?language=PHP&server=LAMP">lien</a>
+</div>
 </body>
 </html>
